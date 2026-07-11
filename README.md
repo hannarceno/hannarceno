@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩🏻‍💻 Hannah Mae Arceño
+# 👩‍💻 Hannah Mae Arceño
 ### Web Developer | UI/UX Designer | Graphic Designer
 
 
@@ -16,14 +16,9 @@ Crafting responsive, user-centered digital experiences that combine aesthetics, 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
-
 <a href="https://github.com/hannarceno">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-
-
 <a href="https://hannarceno.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
@@ -33,16 +28,15 @@ Crafting responsive, user-centered digital experiences that combine aesthetics, 
 ---
 
 ### 💻 Tech Stack
-![](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Liquid-Proficient-000000?style=flat-square)
-![](https://img.shields.io/badge/Figma-Advanced-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Adobe_Creative_Cloud-Proficient-DA1F26?style=flat-square&logo=adobecreativecloud&logoColor=white)
-![](https://img.shields.io/badge/Responsive_Design-Expert-38B2AC?style=flat-square)
-![](https://img.shields.io/badge/UI/UX-Design-8A2BE2?style=flat-square)
-
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+</p>
 
 </div>
 
