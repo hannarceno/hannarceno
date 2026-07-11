@@ -25,6 +25,7 @@ Crafting responsive, user-centered digital experiences that combine aesthetics, 
 
 </p>
 
+<div align="left">
 # 🌟 About Me
 
 
@@ -34,11 +35,11 @@ I specialize in building clean, accessible, and visually appealing websites usin
 With expertise in **Figma** and the **Adobe Creative Suite**, I enjoy transforming ideas into intuitive interfaces through prototyping, visual design, branding, and motion graphics.
 I believe great design is where **functionality meets aesthetics**, creating experiences that are both beautiful and purposeful.
 
-
+</div>
 
 ---
 
-
+<div align="left">
 
 # 🎯 Current Focus
 - 🎨 Designing modern and responsive web interfaces
@@ -47,11 +48,11 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 - 🚀 Optimizing website performance
 - 🌱 Continuously learning new web technologies and design trends
 
-
+</div>
 ---
+<div align="left">
 # 🛠 Skills
 ## Front-End
-
 
 - HTML5
 - CSS3
@@ -72,7 +73,7 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 - Motion Graphics
 - Branding
 - Visual Design
-
+</div>
 
 ---
 
