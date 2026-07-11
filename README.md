@@ -48,9 +48,9 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 - 🚀 Optimizing website performance
 - 🌱 Continuously learning new web technologies and design trends
 
-</div>
+
 ---
-<div align="left">
+
 # 🛠 Skills
 ## Front-End
 
@@ -78,7 +78,7 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 ---
 
 
-<div align="left">
+
 # ❤️ Beyond Tech
 Technology is only one part of who I am.
 I'm passionate about:
