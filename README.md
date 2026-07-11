@@ -25,7 +25,7 @@ Crafting responsive, user-centered digital experiences that combine aesthetics, 
 
 </p>
 
-<div align="left">
+
 # 🌟 About Me
 
 
@@ -35,7 +35,7 @@ I specialize in building clean, accessible, and visually appealing websites usin
 With expertise in **Figma** and the **Adobe Creative Suite**, I enjoy transforming ideas into intuitive interfaces through prototyping, visual design, branding, and motion graphics.
 I believe great design is where **functionality meets aesthetics**, creating experiences that are both beautiful and purposeful.
 
-</div>
+
 
 ---
 
@@ -78,7 +78,7 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 ---
 
 
-
+<div align="left">
 # ❤️ Beyond Tech
 Technology is only one part of who I am.
 I'm passionate about:
@@ -93,7 +93,7 @@ I'm passionate about:
 I actively support initiatives that empower communities through service, collaboration, and meaningful action.
 I believe technology and creativity should be used to inspire positive change, strengthen communities, and contribute to sustainable development.
 
-
+</div>
 
 ---
 
