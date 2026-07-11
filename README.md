@@ -25,27 +25,6 @@ Crafting responsive, user-centered digital experiences that combine aesthetics, 
 
 </p>
 
----
-
-### 💻 Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
-</p>
-
-</div>
-
-
-
----
-
-
-
 # 🌟 About Me
 
 
@@ -62,14 +41,11 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 
 
 # 🎯 Current Focus
-- 🎨 Designing modern and responsive web interfaces
-- 💻 Developing clean and maintainable front-end code
-- 📱 Improving accessibility and user experience
-- 🚀 Optimizing website performance
-- 🌱 Continuously learning new web technologies
-
-
-
+🎨 Designing modern and responsive web interfaces
+🖌️ Creating visually engaging graphic designs and digital assets
+📱 Improving accessibility and user experience
+🚀 Optimizing website performance
+🌱 Continuously learning new web technologies and design trends
 
 
 ---
