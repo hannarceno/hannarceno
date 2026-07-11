@@ -74,11 +74,11 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 
 # ❤️ Beyond Tech
 Technology is only one part of who I am.
-I'm passionate about:
+I'm also passionate about:
 
 - 🌱 Community involvement
 - 🤝 Servant leadership
-- 🇵🇭 Nation-building
+- ☁️ Nation-building
 - 💙 Volunteerism
 - 🌍 Civic engagement
 - 💡 Social innovation
