@@ -39,7 +39,7 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 ---
 
 
-<div align="left">
+
 # 🎯 Current Focus
 - 🎨 Designing modern and responsive web interfaces
 - 🖌️ Creating visually engaging graphic designs and digital assets
@@ -81,7 +81,7 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 # ❤️ Beyond Tech
 Technology is only one part of who I am.
 I'm passionate about:
-<div align="left">
+
 - 🌱 Community involvement
 - 🤝 Servant leadership
 - 🇵🇭 Nation-building
