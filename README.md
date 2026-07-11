@@ -52,7 +52,7 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 ---
 
 # 🛠 Skills
-## Front-End
+## Front-End 🚀
 
 - HTML5
 - CSS3
@@ -64,7 +64,7 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 
 
 
-## Design
+## Design 🎨
 - UI Design
 - UX Design
 - Wireframing
