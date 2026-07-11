@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Hannah Mae Arceño
+# Hi👋 I'm Hannah Mae Arceño 🙆‍♀️
 ### Web Developer | UI/UX Designer | Graphic Designer
 
 
@@ -41,11 +41,11 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 
 
 # 🎯 Current Focus
-🎨 Designing modern and responsive web interfaces
-🖌️ Creating visually engaging graphic designs and digital assets
-📱 Improving accessibility and user experience
-🚀 Optimizing website performance
-🌱 Continuously learning new web technologies and design trends
+- 🎨 Designing modern and responsive web interfaces
+- 🖌️ Creating visually engaging graphic designs and digital assets
+- 📱 Improving accessibility and user experience
+- 🚀 Optimizing website performance
+- 🌱 Continuously learning new web technologies and design trends
 
 
 ---
