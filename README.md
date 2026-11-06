@@ -24,8 +24,6 @@ Crafting responsive, user-centered digital experiences that combine aesthetics, 
 </p>
 
 
-# ✨ About Me 🚀
-
 <div align="left">
 
 # 🎯 Current Focus
