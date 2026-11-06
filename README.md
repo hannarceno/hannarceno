@@ -26,13 +26,6 @@ Crafting responsive, user-centered digital experiences that combine aesthetics, 
 
 # ✨ About Me 🚀
 
-Hi! I'm **Hannah** — a detail-oriented **designer** and **front-end developer** passionate about creating responsive, user-centered interfaces and engaging digital experiences.
-I specialize in building clean, accessible, and visually appealing websites using **HTML, CSS, Liquid, and JavaScript**, while ensuring optimized performance and cross-platform consistency.
-With expertise in **Figma** and the **Adobe Creative Suite**, I enjoy transforming ideas into intuitive interfaces through prototyping, visual design, branding, and motion graphics.
-I believe great design is where **functionality meets aesthetics**, creating experiences that are both beautiful and purposeful.
-
----
-
 <div align="left">
 
 # 🎯 Current Focus
