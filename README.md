@@ -68,24 +68,6 @@ I believe great design is where **functionality meets aesthetics**, creating exp
 - Branding
 - Visual Design
 
----
-
-
-
-# ❤️ Beyond Tech
-Technology is only one part of who I am.
-I'm also passionate about:
-
-- 🌱 Community involvement
-- 🤝 Servant leadership
-- ☁️ Nation-building
-- 💙 Volunteerism
-- 🌍 Civic engagement
-- 💡 Social innovation
-
-I actively support initiatives that empower communities through service, collaboration, and meaningful action.
-I believe technology and creativity should be used to inspire positive change, strengthen communities, and contribute to sustainable development.
-
 </div>
 
 ---
