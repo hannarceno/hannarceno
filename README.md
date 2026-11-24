@@ -92,20 +92,6 @@ const hannah = {
 
 ---
 
-## 🚀 Recent Work
-
-- 🏝️ **Group trip planner PWA.** A mobile-first React 18 + Vite + Tailwind v4 app with Supabase handling auth, Postgres with row-level security, storage and real-time sync.
-  - Works offline in local mode using IndexedDB, and installs as a PWA with push notifications (Web Push via a Vercel serverless function).
-  - Includes Leaflet maps, Google Places photos, shared wishlists, ratings and itineraries.
-  - Expense splitting stores money as integer centavos. Settlement finds the fewest possible transfers with a bitmask DP, and Vitest covers it.
-- 🧩 **Custom Shopify forms app.** An embedded admin dashboard (App Bridge + Polaris) with a Cloudflare Workers backend, connected to the storefront through Shopify's App Proxy. It verifies requests with HMAC signatures, saves submissions as metaobjects, sends email through Resend and refreshes its tokens on a daily cron. It has a full Node test suite.
-- 🛍️ **PageFly → native Online Store 2.0 migration.** Rebuilt 30+ landing pages, collections and the homepage as reusable Liquid sections and snippets that can be edited in the theme editor. This removed page-builder bloat and improved load times.
-- 🗂️ **Metaobject-driven content.** Banner carousels, promo overlays and a knowledge hub that the team manages in the admin, with no code changes needed.
-- ✨ **Interactive campaign pages.** Canvas animations, scroll-driven reveals and flavour switchers built in vanilla JS, with reduced-motion support.
-- 🔁 **Safe deploy workflow.** Git branches mirror the live theme, Theme Check runs before every push, and only the reviewed files are pushed with `--only`.
-
----
-
 ## 🎯 Currently Working On
 
 - ⚛️ React apps with Vite, Tailwind and Supabase, including real-time features and offline-first PWAs
@@ -113,20 +99,6 @@ const hannah = {
 - ☁️ Serverless backends on Cloudflare Workers and Vercel
 - 🚀 Better Core Web Vitals and Lighthouse scores
 - 🧪 Writing tests for the logic and integrations I ship
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hannarceno&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B6B&icon_color=FF6B6B&text_color=8b949e" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannarceno&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B6B&text_color=8b949e" />
-
-<img src="https://streak-stats.demolab.com?user=hannarceno&hide_border=true&background=00000000&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" />
-
-</div>
-
 ---
 
 <div align="center">
