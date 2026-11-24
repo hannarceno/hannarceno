@@ -37,7 +37,7 @@ Detail-oriented developer and designer building responsive, accessible, performa
 
 **Platforms & APIs**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,vercel,jwt,resend,googlecloud" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,vercel,api,jwt,resend,googlecloud" /> <img src="google-business.svg" width="48" height="48" />
 
 **Dev Tools**
 
