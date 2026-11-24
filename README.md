@@ -9,14 +9,11 @@ Detail-oriented developer and designer building responsive, accessible, performa
 
 **💻 Development**
 - 🎯 Focused on building fast, scalable and maintainable web apps with intuitive interfaces and seamless user experiences
-- 🛍️ Developing Shopify storefronts, from custom themes to embedded admin apps, using component-driven architecture and API integrations
-- 🎨 Handling end-to-end visual production for product launches and promotional campaigns, keeping the brand consistent across web, social and paid media
+- 🛍️ Developing Shopify storefronts, from custom themes to embedded admin apps, using component-driven architecture and API integration
 - 📱 Prioritizing performance, accessibility and mobile-first UX
 
-**🎨 Graphic & UI/UX Design**
-- **Graphic design**: web banners, campaign key visuals & social media graphics
-- **Motion graphics**: animated banners and video content
-- **UI/UX**: wireframing, prototyping and design systems in Figma
+**🎨 Design**
+Handling end-to-end visual production for product launches and promotional campaigns, keeping the brand consistent across web, social and paid media
 
 ---
 
