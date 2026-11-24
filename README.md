@@ -13,7 +13,7 @@ Detail-oriented developer and designer building responsive, accessible, performa
 - 📱 Prioritizing performance, accessibility and mobile-first UX
 
 **🎨 Design**
-Handling end-to-end visual production for product launches and promotional campaigns, keeping the brand consistent across web, social and paid media
+- Handling end-to-end visual production for product launches and promotional campaigns, keeping the brand consistent across web, social and paid media
 
 ---
 
