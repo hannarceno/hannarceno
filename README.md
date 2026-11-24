@@ -1,6 +1,6 @@
 # Hi 👋 I'm Hannah Mae Arceño
 
-**Front-End Web Developer · Shopify Theme & App Developer · Graphic & UI/UX Designer**
+**Web Developer · Shopify Theme & App Developer · Graphic & UI/UX Designer**
 
 I build responsive, accessible, performance-focused web apps and storefronts, from React PWAs and Shopify themes to serverless backends. I'm also a graphic designer: I create the banners, campaign visuals and motion graphics, then code them into the site. That way, what ships matches the mockup.
 
