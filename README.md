@@ -8,8 +8,8 @@
 Detail-oriented developer and designer building responsive, accessible, performance-focused web apps and storefronts.
 
 **💻 Development**
-- 🎯 Focused on building fast and scalable web apps and storefronts
-- 🛍️  Developing web apps and Shopify storefronts, from custom themes to embedded admin apps, using component-driven architecture and API integrations
+- 🎯 Focused on building fast, scalable and maintainable web apps with intuitive interfaces and seamless user experiences
+- 🛍️ Developing Shopify storefronts, from custom themes to embedded admin apps, using component-driven architecture and API integrations
 - 🎨 Handling end-to-end visual production for product launches and promotional campaigns, keeping the brand consistent across web, social and paid media
 - 📱 Prioritizing performance, accessibility and mobile-first UX
 
