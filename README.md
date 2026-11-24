@@ -29,7 +29,7 @@ Detail-oriented developer and designer building responsive, accessible, performa
 
 **Frontend & E-commerce**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind,leaflet,pwa,shopify" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind,leaflet,shopify" />
 
 **Backend & Databases**
 
@@ -53,4 +53,4 @@ Detail-oriented developer and designer building responsive, accessible, performa
 
 <div align="center">
 
-⭐ Thanks for stopping by!
+💬 Have a project in mind? Let's design and build it together.
