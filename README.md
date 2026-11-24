@@ -14,7 +14,7 @@ Detail-oriented developer and designer building responsive, accessible, performa
 
 **🎨 Design**
 - Handling end-to-end visual production for product launches and promotional campaigns, keeping the brand consistent across web, social and paid media
-
+- Creating key visuals, website assets, web banners, ad creatives, animations and motion graphics that grab attention, drive engagement and boost conversions
 ---
 
 ## 🛠 Tech Stack
