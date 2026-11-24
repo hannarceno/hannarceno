@@ -1,12 +1,8 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=640&lines=Front-End+Web+Developer;React+%C2%B7+Vite+%C2%B7+Tailwind+CSS;Shopify+Theme+%26+App+Developer;UI%2FUX+Designer+who+codes;Building+fast%2C+accessible+web+experiences" alt="Typing SVG" />
-
 # Hi 👋 I'm Hannah Mae Arceño
 
-**Front-End Web Developer · Shopify Theme & App Developer · UI/UX Designer**
+**Front-End Web Developer · Shopify Theme & App Developer · Graphic & UI/UX Designer**
 
-I build responsive, accessible, performance-focused web apps and storefronts, from React PWAs and Shopify themes to serverless backends. I design them too: wireframes, prototypes, design systems and motion graphics. That way, what ships matches the mockup.
+I build responsive, accessible, performance-focused web apps and storefronts, from React PWAs and Shopify themes to serverless backends. I'm also a graphic designer: I create the banners, campaign visuals and motion graphics, then code them into the site. That way, what ships matches the mockup.
 
 <a href="https://hannarceno.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/hannarceno/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,23 +14,19 @@ I build responsive, accessible, performance-focused web apps and storefronts, fr
 
 ## 👩‍💻 About Me
 
-```js
-const hannah = {
-  role: ["Front-End Developer", "Shopify Theme & App Developer", "UI/UX Designer"],
-  languages: ["JavaScript (ES2022+)", "JSX", "HTML5", "CSS3", "Liquid", "GraphQL", "SQL", "JSON", "Bash", "PowerShell"],
-  frontend: ["React 18", "Vite", "Tailwind CSS v4", "Vanilla JS", "Web Components", "Leaflet / React-Leaflet",
-             "Canvas API", "IntersectionObserver", "CSS Grid / Flexbox", "Container Queries"],
-  pwa: ["Service Workers", "Web App Manifest", "Web Push (VAPID)", "IndexedDB", "Offline-first"],
-  backend: ["Supabase (Postgres, Auth, Storage, Realtime, RLS)", "Cloudflare Workers", "Workers KV",
-            "Cron Triggers", "Vercel Serverless Functions", "Node.js", "REST APIs", "HMAC / OAuth"],
-  shopify: ["Online Store 2.0", "Dawn", "Shopify CLI", "Admin GraphQL API", "Metaobjects & Metafields",
-            "App Bridge", "Polaris Web Components", "App Proxy", "Token Exchange"],
-  apis: ["Google Maps Places API", "OpenStreetMap", "Resend"],
-  design: ["UI/UX", "Wireframing", "Prototyping", "Design Systems", "Motion Graphics"],
-  focus: ["Performance", "Accessibility", "Mobile-first UX", "Clean, tested code"],
-  motto: "Clean code, fast load times, pixel-perfect results.",
-};
-```
+I'm a developer and designer who works on both sides of a project, from the first sketch to the live site.
+
+**💻 Development**
+- Front-end apps with **React 18, Vite and Tailwind CSS**, including offline-first **PWAs** with push notifications
+- **Shopify themes and apps**: Liquid, Online Store 2.0, the Admin GraphQL API, metaobjects, and embedded admin apps built with App Bridge and Polaris
+- Serverless backends on **Supabase, Cloudflare Workers and Vercel**, with REST APIs, OAuth and HMAC-secured integrations
+- A focus on **performance, accessibility and mobile-first UX**
+
+**🎨 Graphic & UI/UX Design**
+- **Graphic design**: web banners, campaign key visuals, social media graphics and product imagery
+- **Motion graphics**: animated banners and video content
+- **UI/UX**: wireframing, prototyping and design systems in Figma
+- Turning my own designs into pixel-perfect, responsive code
 
 ---
 
@@ -56,14 +48,12 @@ const hannah = {
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,nodejs,cloudflare,workers,vercel,resend" />
 
-**Tools & Design**
+**Design**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,figma,ps,ai,ae" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,ae" />
 
 ---
 
 <div align="center">
 
-⭐ Thanks for stopping by! Feel free to explore my repos or reach out.
-
-</div>
+⭐ Thanks for stopping by!
