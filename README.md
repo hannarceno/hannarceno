@@ -48,16 +48,6 @@ const hannah = {
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **Project Name** | One-line summary of what it does and who it's for | HTML · CSS · JS | [Live](#) · [Code](#) |
-| **Project Name** | One-line summary of what it does and who it's for | Shopify · Liquid | [Live](#) · [Code](#) |
-| **Project Name** | One-line summary of what it does and who it's for | HTML · CSS · JS | [Live](#) · [Code](#) |
-
----
-
 ## 🎯 Currently Working On
 
 - ⚡ Building responsive, accessible interfaces with semantic HTML and modern CSS (Flexbox, Grid)
