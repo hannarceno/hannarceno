@@ -23,7 +23,9 @@ Detail-oriented developer and designer building responsive, accessible, performa
 
 **Languages**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html,css,graphql,json" />
+**Languages**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,json" /> <img src="assets/liquid.svg" width="48" height="48" />
 
 **Frontend & E-commerce**
 
@@ -37,9 +39,9 @@ Detail-oriented developer and designer building responsive, accessible, performa
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare,vercel,jwt,resend,googlecloud" />
 
-**Dev Tools & CI/CD**
+**Dev Tools**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,vscode,lighthouse,claude,codex" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,lighthouse,claude,codex" />
 
 ---
 
