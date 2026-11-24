@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="gbp">
+<style>
+#gbp path.rect {fill: #242938}
+@media (prefers-color-scheme: light) {
+  #gbp path.rect {fill: #F4F2ED}
+}
+</style>
+<path d="M196 0H60C26.8629 0 0 26.8629 0 60V196C0 229.137 26.8629 256 60 256H196C229.137 256 256 229.137 256 196V60C256 26.8629 229.137 0 196 0Z" fill="#242938" class="rect"/>
+<path d="M66 118H190V188C190 196.837 182.837 204 174 204H82C73.1634 204 66 196.837 66 188V118Z" fill="#4285F4"/>
+<path d="M66 60H190L206 102H50L66 60Z" fill="#AECBFA"/>
+<path d="M66 60H97L89 102H50Z M128 60H159L167 102H128Z" fill="#4285F4"/>
+<path d="M50 102H89A19.5 19.5 0 0 1 50 102Z" fill="#4285F4"/>
+<path d="M89 102H128A19.5 19.5 0 0 1 89 102Z" fill="#AECBFA"/>
+<path d="M128 102H167A19.5 19.5 0 0 1 128 102Z" fill="#4285F4"/>
+<path d="M167 102H206A19.5 19.5 0 0 1 167 102Z" fill="#AECBFA"/>
+<path d="M150 158A22 22 0 1 1 143 142" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+<path d="M130 160H151" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+</svg>
