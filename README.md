@@ -17,7 +17,7 @@ I build responsive, accessible, performance-focused web apps and storefronts, fr
 I'm a developer and designer who works on both sides of a project, from the first sketch to the live site.
 
 **💻 Development**
-- Front-end apps with **React 18, Vite and Tailwind CSS**, including offline-first **PWAs** with push notifications
+- Front-end apps with **React 18, Vite and Tailwind CSS**
 - **Shopify themes and apps**: Liquid, Online Store 2.0, the Admin GraphQL API, metaobjects, and embedded admin apps built with App Bridge and Polaris
 - Serverless backends on **Supabase, Cloudflare Workers and Vercel**, with REST APIs, OAuth and HMAC-secured integrations
 - A focus on **performance, accessibility and mobile-first UX**
