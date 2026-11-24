@@ -42,63 +42,28 @@ const hannah = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,graphql,postgres,bash,powershell,md" />
-
-<img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,graphql,postgres,json,bash,powershell,md" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind,leaflet,pwa" />
 
-<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_Push-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+**Shopify**
 
-**Shopify Platform**
-
-<img src="https://img.shields.io/badge/Online_Store_2.0-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify_CLI-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Admin_GraphQL_API-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/App_Bridge-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Polaris-5C6AC4?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Metaobjects-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=shopify" />
 
 **Backend, Serverless & APIs**
 
-<img src="https://skillicons.dev/icons?i=supabase,nodejs,cloudflare,workers" />
-
-<img src="https://img.shields.io/badge/Vercel_Functions-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Workers_KV-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,nodejs,cloudflare,workers,vercel,resend" />
 
 **Testing, Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,npm,vitest,chrome,chromedevtools,lighthouse,claude" />
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,ae" />
 
----
-
-## 🎯 Currently Working On
-
-- ⚛️ React apps with Vite, Tailwind and Supabase, including real-time features and offline-first PWAs
-- 🛍️ Shopify themes **and** apps: Liquid, the Admin GraphQL API and embedded admin UIs
-- ☁️ Serverless backends on Cloudflare Workers and Vercel
-- 🚀 Better Core Web Vitals and Lighthouse scores
-- 🧪 Writing tests for the logic and integrations I ship
 ---
 
 <div align="center">
