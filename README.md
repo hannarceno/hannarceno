@@ -21,8 +21,6 @@ Detail-oriented developer and designer building responsive, accessible, performa
 
 **Languages**
 
-**Languages**
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,json" /> <img src="assets/liquid.svg" width="48" height="48" />
 
 **Frontend & E-commerce**
